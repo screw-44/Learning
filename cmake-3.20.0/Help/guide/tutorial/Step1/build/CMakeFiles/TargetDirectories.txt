@@ -1,0 +1,3 @@
+/home/screw/Downloads/cmake-3.20.0/Help/guide/tutorial/Step1/build/CMakeFiles/rebuild_cache.dir
+/home/screw/Downloads/cmake-3.20.0/Help/guide/tutorial/Step1/build/CMakeFiles/Tutorial.dir
+/home/screw/Downloads/cmake-3.20.0/Help/guide/tutorial/Step1/build/CMakeFiles/edit_cache.dir
