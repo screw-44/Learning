@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/optional.dir/old_ways.o  -o optional 
